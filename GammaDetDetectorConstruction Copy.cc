@@ -29,7 +29,7 @@
  Внесение еще каких-то изменений тест
  
  Внесение изменений в ветке 1
- 
+ И еще немного ветка 1
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
 GammaDetDetectorConstruction::GammaDetDetectorConstruction()
