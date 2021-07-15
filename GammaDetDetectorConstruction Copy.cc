@@ -24,7 +24,7 @@
 #include <G4PSEnergyDeposit.hh>
 #include "EnergyTimeSD.hh"
 #include <G4GlobalMagFieldMessenger.hh>
-
+ Внесение каких-то изменений тест 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
 GammaDetDetectorConstruction::GammaDetDetectorConstruction()
